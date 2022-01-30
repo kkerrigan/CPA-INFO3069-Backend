@@ -1,0 +1,19 @@
+{
+  "name": "trafficlight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kristian Kerrigan",
+  "license": "ISC",
+  "engines": {
+    "node": "8.4"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "socket.io": "^2.0.4"
+  }
+}

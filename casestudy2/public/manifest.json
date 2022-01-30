@@ -1,0 +1,31 @@
+{
+  "name": "Kristian Kerrigan's Chat App",
+  "short_name": "Chat App",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#D52B1E",
+  "description": "A simple react based chat app.",
+  "icons": [{
+    "src": "images/chat.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "images/chat.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "images/chat.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+    {
+      "src": "images/chat.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "theme_color": "#D52B1E",
+  "background_color": "#D52B1E",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
